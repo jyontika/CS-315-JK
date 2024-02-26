@@ -1,6 +1,6 @@
 
-### Jyontika Kapoor
-## CS315 Personal Repository
+## Jyontika Kapoor
+### CS315 Personal Repository
 
 Table of contents: <br>
 (1) College Search with Selenium <br>
