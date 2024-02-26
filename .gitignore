@@ -1,5 +1,5 @@
 # Ignore macOS system files
 .DS_Store
 
-# Ignore data
-/Users/jyontika/Documents/GitHub/CS-315-JK/Google-Top-Stories/GoogleTopStories
+# Ignore specific directory
+Google-Top-Stories/GoogleTopStories
